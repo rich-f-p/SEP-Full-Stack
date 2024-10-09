@@ -20,6 +20,7 @@ namespace DayFiveAssignments
         string? address;
         address = Console.ReadLine();
         Console.WriteLine($"Your hacker name is {color}{astr}{address}");
+            for (; true;) { }
         }
 
         public void SizeOfTypes()

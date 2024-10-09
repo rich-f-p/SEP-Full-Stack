@@ -1,0 +1,115 @@
+ASSIGNMENT 1:
+Test your Knowledge
+
+1. What type would you choose for the following “numbers”?
+A person’s telephone number
+	- String
+A person’s height
+	- Float
+A person’s age
+	- byte
+A person’s gender (Male, Female, Prefer Not To Answer)
+	- string
+A person’s salary
+	- int
+A book’s ISBN
+	- string
+A book’s price
+	- float
+A book’s shipping weight
+	- byte
+A country’s population
+	- uint
+The number of stars in the universe
+	-ulong
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+	-ushort
+
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+Value types directly hold their data and include types like int, float, 
+double, and bool. They cannot accept null values, are defined using struct or 
+enum, are not collected by the garbage collector, and are stored in stack memory.
+Reference types hold memory addresses for their values and include string, 
+StringBuilder, and object. They are created using class, interface, or array, 
+are collected by the garbage collector, and are stored in heap memory. The main 
+difference from value types is that reference types can be null. Each type can be 
+used based on specific needs.
+
+Boxing is the process of converting a value type (such as int, float, or bool) into 
+a reference type by wrapping the value in an object. This allows the value type to 
+be treated like an object, enabling it to be stored in collections or passed to 
+methods that expect an object. Unboxing, on the other hand, is the reverse process, 
+where a boxed reference type is converted back into its original value type. This 
+requires an explicit cast to retrieve the desired value type, and it's important to 
+ensure that the object being unboxed is indeed of the expected type; otherwise, an 
+exception will be thrown.
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+Managed and unmanaged code refers to how memory and resources are handled in .NET. 
+Managed code is executed by the CLR (Common Language Runtime), which automatically 
+manages memory and performs garbage collection. In contrast, unmanaged code is executed 
+directly by the operating system and requires manual memory management, often using 
+methods like Dispose() to free resources. This distinction impacts how developers 
+handle resource management and memory safety in their applications.
+
+4. Whats the purpose of Garbage Collector in .NET?
+Garbage collector is like a helper for the developer. It automatically manage memory 
+allocation and deallocation for objects, including removing objects that are no longer
+in use, freeing up memory , preventing memory leaks and simplifying the development 
+process by removing the need for manual memory management.
+
+
+Test your Knowledge
+1. What happens when you divide an int variable by 0?
+	- throws a DivideByZero Exception. 
+2. What happens when you divide a double variable by 0?
+	- possiblity of Infinity
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+	- could develop never ending loop or it stops at the min or max value. Also the posibilty for error to occur.
+4. What is the difference between x = y++; and x = ++y;?
+	-y++ increments after assigning x = y.
+	-++y will increment and then assign x = y.
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+	- break will exit the loop
+	- continue will skip iteration
+	- return with exit method
+6. What are the three parts of a for statement and which of them are required?
+	- Three parts are initialization, condition, and iteration.
+	- all are optional, but all should be included for a functional loop.
+7. What is the difference between the = and == operators?
+	- '=' is for assignment.
+	- "==" is for equality comparison operator.
+8. Does the following statement compile? for ( ; true; ) ;
+	- yes it will compile but loop appears to be infinite. 
+9. What does the underscore _ represent in a switch expression?
+	- matches any value that hasn't been matched by previous cases.
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+	- IEnumerable
+
+
+
+ASSIGNMENT 2:
+
+1. When to use String vs. StringBuilder in C# ?
+	- use string for simple manipulation or desire immutability
+	- StringBuilder when working with large strings or making frequent modifications.
+2. What is the base class for all arrays in C#?
+	- the Array class is the base for all arrays provided by the System namespace.
+3. How do you sort an array in C#?
+	- you can call the sort method which will automatically sort the array.
+	- or you can perform your own sort if desired by providing code and logic. 
+4. What property of an array object can be used to get the total number of elements in
+an array?
+	- we can use the Length property which will give us the total number of elements in an array.
+5. Can you store multiple data types in System.Array?
+	- No, we specify the type of data type that we will use for declared arrays.
+6. What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+	- CopyTo() requires an existing array to copy elements to the desitination array.
+	- Clone() creates a new array that is copy of the original array.
+
+

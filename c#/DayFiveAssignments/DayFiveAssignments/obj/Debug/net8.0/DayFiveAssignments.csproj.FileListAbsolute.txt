@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\bin\Debug\net8.0\DayFiveAssignments.exe
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\bin\Debug\net8.0\DayFiveAssignments.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\bin\Debug\net8.0\DayFiveAssignments.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\bin\Debug\net8.0\DayFiveAssignments.dll
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\bin\Debug\net8.0\DayFiveAssignments.pdb
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.sourcelink.json
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.dll
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\refint\DayFiveAssignments.dll
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.pdb
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\DayFiveAssignments.genruntimeconfig.cache
+C:\Users\richa\Desktop\SEP Full Stack\SEP-Full-Stack\c#\DayFiveAssignments\DayFiveAssignments\obj\Debug\net8.0\ref\DayFiveAssignments.dll
