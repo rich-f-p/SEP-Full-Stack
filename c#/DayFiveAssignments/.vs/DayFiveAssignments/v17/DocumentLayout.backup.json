@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|c:\\users\\richa\\desktop\\sep full stack\\sep-full-stack\\c#\\dayfiveassignments\\dayfiveassignments\\assignments02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|solutionrelative:dayfiveassignments\\assignments02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|c:\\users\\richa\\desktop\\sep full stack\\sep-full-stack\\c#\\dayfiveassignments\\dayfiveassignments\\assignments01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|solutionrelative:dayfiveassignments\\assignments01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|c:\\users\\richa\\desktop\\sep full stack\\sep-full-stack\\c#\\dayfiveassignments\\dayfiveassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|solutionrelative:dayfiveassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|c:\\users\\richa\\desktop\\sep full stack\\sep-full-stack\\c#\\dayfiveassignments\\dayfiveassignments\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A93788A4-127D-4300-9D93-69641B7FA32A}|DayFiveAssignments\\DayFiveAssignments.csproj|solutionrelative:dayfiveassignments\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Assignments02.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Assignments02.cs",
-              "RelativeDocumentMoniker": "DayFiveAssignments\\Assignments02.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Assignments02.cs",
-              "RelativeToolTip": "DayFiveAssignments\\Assignments02.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgBAAAFAAAAAAAAAA==",
+              "Title": "Assignments01.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Assignments01.cs",
+              "RelativeDocumentMoniker": "DayFiveAssignments\\Assignments01.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Assignments01.cs*",
+              "RelativeToolTip": "DayFiveAssignments\\Assignments01.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T14:54:14.707Z",
+              "WhenOpened": "2024-10-09T16:16:14.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Assignments01.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Assignments01.cs",
-              "RelativeDocumentMoniker": "DayFiveAssignments\\Assignments01.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Assignments01.cs",
-              "RelativeToolTip": "DayFiveAssignments\\Assignments01.cs",
-              "ViewState": "AgIAAOoAAAAAAAAAAAAAAP4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T14:34:00.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Program.cs",
-              "RelativeDocumentMoniker": "DayFiveAssignments\\Program.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\Program.cs",
-              "RelativeToolTip": "DayFiveAssignments\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T14:32:33.322Z",
+              "Title": "textFile.txt",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\textFile.txt",
+              "RelativeDocumentMoniker": "DayFiveAssignments\\textFile.txt",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\DayFiveAssignments\\DayFiveAssignments\\textFile.txt*",
+              "RelativeToolTip": "DayFiveAssignments\\textFile.txt*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T15:27:41.097Z",
               "EditorCaption": ""
             }
           ]
