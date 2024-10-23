@@ -1,0 +1,44 @@
+body {
+    margin: 0%;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 10px;
+}
+ul li{
+    padding: 5px;
+    border-bottom: 1px solid rgb(95, 95, 95);
+}
+.section1{
+    color: lightgray;
+    padding: 20px 20px 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(73, 73, 87);
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+    color: lightgray;
+}
+.section2{
+    display: flex;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: lightgray;
+    justify-content: space-between;
+}
+
+
+
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}

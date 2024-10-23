@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\Generics04\\Generics04\\IRepository.cs",
-              "RelativeDocumentMoniker": "Generics04\\IRepository.cs",
-              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\Generics04\\Generics04\\IRepository.cs",
-              "RelativeToolTip": "Generics04\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:00:55.878Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -116,6 +103,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-10-11T05:07:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\Generics04\\Generics04\\IRepository.cs",
+              "RelativeDocumentMoniker": "Generics04\\IRepository.cs",
+              "ToolTip": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\SEP-Full-Stack\\c#\\Generics04\\Generics04\\IRepository.cs",
+              "RelativeToolTip": "Generics04\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:00:55.878Z",
               "EditorCaption": ""
             },
             {
